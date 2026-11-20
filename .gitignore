@@ -1,0 +1,5 @@
+Source/
+build/
+dist/
+SysMon/
+.env
